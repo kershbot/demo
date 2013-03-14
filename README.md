@@ -1,0 +1,4 @@
+demo
+====
+
+Example web class
